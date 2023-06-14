@@ -1,6 +1,5 @@
 aiohttp==3.7.4.post0
 aiohttp-apispec==2.2.1
-altgraph @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/altgraph-0.17.2-py2.py3-none-any.whl
 anyio==3.7.0
 apispec==3.3.2
 astroid==2.15.5
@@ -20,7 +19,6 @@ exceptiongroup==1.1.1
 filelock==3.12.0
 Flask==2.3.2
 fonttools==4.38.0
-future @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/future-0.18.2-py3-none-any.whl
 grpcio==1.54.0
 grpcio-tools==1.54.0
 gunicorn==20.1.0
@@ -38,7 +36,6 @@ itsdangerous==2.1.2
 Jinja2==2.11.3
 kiwisolver==1.4.4
 lazy-object-proxy==1.9.0
-macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/macholib-1.15.2-py2.py3-none-any.whl
 MarkupSafe==1.1.1
 marshmallow==3.10.0
 matplotlib==3.6.3
@@ -57,7 +54,6 @@ pyTelegramBotAPI==4.12.0
 python-dateutil==2.8.2
 requests==2.30.0
 scipy==1.10.0
-six @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/six-1.15.0-py2.py3-none-any.whl
 sniffio==1.3.0
 sortedcontainers==2.3.0
 sympy==1.11.1
